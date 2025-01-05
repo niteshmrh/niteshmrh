@@ -9,17 +9,17 @@
 ---
 
 ## 📚 Education
-- 🌱 I’ve completed my Master's in Computer Application from the Department of Computer Science, University of Delhi and managed to secure 8.088 CGPA.
+- 🌱 I’ve completed my Master's in Computer Application from the [Department of Computer Science, University of Delhi](https://cs.du.ac.in/) and managed to secure 8.088 CGPA.
 - 📫 reach me at @nitesh.mca20.du@gmail.com
+- 🧩 I enjoy solving problems on [LeetCode](https://leetcode.com/u/niteshmrh/) 
 
 ---
 
 ## 🚀 Experience
 I'm a **Full Stack Software Developer** with **1.5 years of professional experience** in designing, developing, and optimizing web applications. I'm passionate about building robust and scalable software solutions and continuously exploring new technologies to enhance my skill set.
 
-- 💻 Currently working at **Fairassets Technologies (Faircent.com)**
-- 🌍 Based in **Gurgaon, India**
-- 🧩 I enjoy solving problems on [LeetCode](https://leetcode.com/u/niteshmrh/)
+- 💻 Currently working at **Fairassets Technologies [(Faircent.com)](https://www.faircent.in/)**
+- 🌍 Based in **Gurgaon, India**  
 
 ---
 
@@ -42,7 +42,9 @@ I'm a **Full Stack Software Developer** with **1.5 years of professional experie
 
 ## 📈 My GitHub Stats
 
-![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshmrh&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshmrh&layout=compact&theme=radical)
+![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshmrh&show_icons=true&theme=radical&count_private=true) &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshmrh&layout=compact&theme=radical)
+<be><br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=niteshmrh&layout=compact&theme=radical)
 
 ---
 
