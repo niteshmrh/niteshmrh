@@ -13,9 +13,9 @@ technologies. Always eager to learn and deliver smart solutions.
 
 **Frontend Development:** `React.js` `Next.js` `Vite.js` `Chart.js` `Bootstrap` `Tailwind` `Material-UI` `HTML5` `CSS` `Saas` 
 
-**Backend Development:** `Node.js` `Express.js` `Firebase` `MongoDB` `Mysql` `PostgreSQL`  `Python-Django`
+**Backend Development:** `Node.js` `Express.js` `Python-Django`
 
-**Database:** `Mysql` `Sequelize ORM` `MongoDB` `Drizzle ORM` `PostgreSQL`
+**Database:** `Mysql` `Sequelize ORM` `MongoDB` `Drizzle ORM` `PostgreSQL` `Firebase`
 
 **Version Control:** `Git` `GitLab` `BitBucket` 
 
