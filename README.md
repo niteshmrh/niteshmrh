@@ -1,9 +1,5 @@
 ### Hey, I'm Nitesh Kumar 👋🏽  
 
-Driven Full Stack Software Developer with 2 year of experience. Passionate about problem-solving and exploring new
-technologies. Always eager to learn and deliver smart solutions.
-
----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh%20Kumar-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/niteshmrh/)
 [![GitHub](https://img.shields.io/badge/GitHub-niteshmrh-lightgrey?logo=github&style=flat-square)](https://github.com/niteshmrh)
@@ -12,7 +8,7 @@ technologies. Always eager to learn and deliver smart solutions.
 
 ---
 
-
+## 📚 Education
 - 🌱 I’ve completed my Master's in Computer Application from the Department of Computer Science, University of Delhi and managed to secure 8.088 CGPA.
 - 📫 reach me at @nitesh.mca20.du@gmail.com
 - follow me at [LinkedIn](https://www.linkedin.com/in/niteshmrh/)
