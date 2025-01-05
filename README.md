@@ -11,7 +11,6 @@
 ## 📚 Education
 - 🌱 I’ve completed my Master's in Computer Application from the Department of Computer Science, University of Delhi and managed to secure 8.088 CGPA.
 - 📫 reach me at @nitesh.mca20.du@gmail.com
-- follow me at [LinkedIn](https://www.linkedin.com/in/niteshmrh/)
 
 ---
 
@@ -43,15 +42,22 @@ I'm a **Full Stack Software Developer** with **1.5 years of professional experie
 
 ## 📈 My GitHub Stats
 
-![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshmrh&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshmrh&layout=compact&theme=radical)
+![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshmrh&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshmrh&layout=compact&theme=radical)
 
 ---
 
 ## 🌱 What I'm Currently Learning
 - **Docker**: Enhancing containerization and deployment capabilities.
 - **Advanced Backend Design**: Exploring design patterns and architecture best practices.
+- **Microservices**: Understanding microservices architecture and implementing scalable systems.
+  
+---
+
+
+## 📚 What I'm Studying
+- **Distributed Systems**: Diving into distributed computing principles to build resilient and scalable systems.
+- **DevOps Practices**: Learning CI/CD pipelines and infrastructure as code (IaC) with Docker and Jenkins.
+- **GraphQL**: Exploring GraphQL for more efficient data querying and handling complex data relationships.
 
 ---
 
