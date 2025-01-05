@@ -16,10 +16,17 @@ technologies. Always eager to learn and deliver smart solutions.
 - 🌱 I’ve completed my Master's in Computer Application from the Department of Computer Science, University of Delhi and managed to secure 8.088 CGPA.
 - 📫 reach me at @nitesh.mca20.du@gmail.com
 - follow me at [LinkedIn](https://www.linkedin.com/in/niteshmrh/)
+
+---
+
+## 🚀 About Me
+I'm a **Full Stack Software Developer** with **1.5 years of professional experience** in designing, developing, and optimizing web applications. I'm passionate about building robust and scalable software solutions and continuously exploring new technologies to enhance my skill set.
+
 - 🌍 Based in **Gurgaon, India**
 - 💻 Currently working at **Fairassets Technologies (Faircent.com)**
 - 🧩 I enjoy solving problems on [LeetCode](https://leetcode.com/u/niteshmrh/)
 
+---
 
 ## 📦 Toolbox
 
@@ -33,27 +40,10 @@ technologies. Always eager to learn and deliver smart solutions.
 
 **Version Control:** `Git` `GitLab` `BitBucket` 
 
-**Others:**  `Docker` `Linux` `Microservices` `Postman` `Vercel` `VSCode`
+**Others:**  `Docker` `AWS-SNS` `Linux` `Microservices` `Postman` `Vercel` `VSCode`
 
 ---
 
-## 🛠️ Skills and Technologies
-
-### Programming Languages
-- **Core-Java**, **JavaScript**, **TypeScript**, **Python**
-
-### Frameworks and Libraries
-- Frontend: **React.js**, **Next.js**, **Vite.js**, **Chart.js**, **Material-UI**, **Bootstrap**, **TailwindCSS**, **HTML5**, **CSS**, **SASS**
-- Backend: **Node.js**, **Express.js**, **Python-Django**
-
-### Databases
-- **MySQL**, **MongoDB**, **Drizzle ORM**, **Sequelize ORM**
-
-### Tools and Platforms
-- **Git**, **GitHub**, **Docker**, **Jenkins**, **Postman**, **AWS SNS**
-- **Linux**, **Redis**, **Bitbucket**
-
----
 
 ## 📈 My GitHub Stats
 
