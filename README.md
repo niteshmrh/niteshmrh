@@ -33,7 +33,7 @@ I'm a **Full Stack Software Developer** with **1.5 years of professional experie
 
 **Database:** `Mysql` `Sequelize ORM` `MongoDB` `Drizzle ORM` `PostgreSQL` `Firebase`
 
-**Version Control:** `Git` `GitLab` `BitBucket` 
+**Version Control:** `Git` `GitHub` `BitBucket` 
 
 **Others:**  `Docker` `AWS-SNS` `Linux` `Microservices` `Postman` `Vercel` `VSCode`
 
