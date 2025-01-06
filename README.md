@@ -1,12 +1,30 @@
 ### Hey, I'm Nitesh Kumar 👋🏽  
 
+<a href="https://github.com/niteshmrh" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=flat-square" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/niteshmrh/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Nitesh%20Kumar-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+</a>
+<a href="https://github.com/niteshmrh" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-niteshmrh-lightgrey?logo=github&style=flat-square" alt="GitHub">
+</a>
+<a href="https://leetcode.com/u/niteshmrh/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Nitesh%20Kumar-orange?logo=leetcode&style=flat-square" alt="LeetCode">
+</a>
+<a href="https://www.hackerrank.com/profile/niteshmrh" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Nitesh%20Kumar-brightgreen?logo=hackerrank&style=flat-square" alt="HackerRank">
+</a>
+<a href="https://www.geeksforgeeks.org/user/niteshmrh/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Nitesh%20Kumar-darkgreen?logo=geeksforgeeks&style=flat-square" alt="GeeksforGeeks">
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=flat-square)](https://github.com/niteshmrh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh%20Kumar-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/niteshmrh/)
-[![GitHub](https://img.shields.io/badge/GitHub-niteshmrh-lightgrey?logo=github&style=flat-square)](https://github.com/niteshmrh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Nitesh%20Kumar-orange?logo=leetcode&style=flat-square)](https://leetcode.com/u/niteshmrh/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Nitesh%20Kumar-brightgreen?logo=hackerrank&style=flat-square)](https://www.hackerrank.com/profile/niteshmrh)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Nitesh%20Kumar-darkgreen?logo=geeksforgeeks&style=flat-square)](https://www.geeksforgeeks.org/user/niteshmrh/)
+[//]:[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=flat-square)](https://github.com/niteshmrh)
+[//]:[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh%20Kumar-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/niteshmrh/)
+[//]:[![GitHub](https://img.shields.io/badge/GitHub-niteshmrh-lightgrey?logo=github&style=flat-square)](https://github.com/niteshmrh)
+[//]:[![LeetCode](https://img.shields.io/badge/LeetCode-Nitesh%20Kumar-orange?logo=leetcode&style=flat-square)](https://leetcode.com/u/niteshmrh/)
+[//]:[![HackerRank](https://img.shields.io/badge/HackerRank-Nitesh%20Kumar-brightgreen?logo=hackerrank&style=flat-square)](https://www.hackerrank.com/profile/niteshmrh)
+[//]:[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Nitesh%20Kumar-darkgreen?logo=geeksforgeeks&style=flat-square)](https://www.geeksforgeeks.org/user/niteshmrh/)
 
 ---
 
