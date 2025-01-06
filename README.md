@@ -63,7 +63,7 @@ I'm a **Full Stack Software Developer** with **1.5 years of professional experie
 ## 📈 My GitHub Stats
 
 ![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshmrh&show_icons=true&theme=radical&count_private=true) &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshmrh&layout=compact&theme=radical)
-<be><br>
+<br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niteshmrh&layout=compact&theme=radical)
 
 ---
