@@ -1,6 +1,6 @@
 ### Hey, I'm Nitesh Kumar 👋🏽  
 
-<a href="https://github.com/niteshmrh" target="_blank">
+<a href="https://niteshmrh-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=flat-square" alt="Portfolio">
 </a>
 <a href="https://www.linkedin.com/in/niteshmrh/" target="_blank">
