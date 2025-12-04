@@ -49,7 +49,7 @@ I'm a **Full Stack Software Developer** with **1.5 years of professional experie
 
 **Frontend Development:** `React.js` `Next.js` `Vite.js` `Chart.js` `Bootstrap` `Tailwind` `Material-UI` `HTML5` `CSS` `Saas` 
 
-**Backend Development:** `Node.js` `Express.js` `Python-Django`
+**Backend Development:** `Node.js` `Express.js` `Python-Django` `FLASK` `FAST-API` `DRUPAL-PHP` `SPRINGBOOT`
 
 **Database:** `Mysql` `Sequelize ORM` `MongoDB` `Drizzle ORM` `PostgreSQL` `Firebase`
 
