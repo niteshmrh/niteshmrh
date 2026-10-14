@@ -36,7 +36,7 @@
 ---
 
 ## 🚀 Experience
-I'm a **Full Stack Software Developer** with **1.5 years of professional experience** in designing, developing, and optimizing web applications. I'm passionate about building robust and scalable software solutions and continuously exploring new technologies to enhance my skill set.
+I'm a **Full Stack Software Developer** with **3.5+ years of professional experience** in designing, developing, and optimizing web applications. I'm passionate about building robust and scalable software solutions and continuously exploring new technologies to enhance my skill set.
 
 - 💻 Currently working at **Fairassets Technologies [(Faircent.com)](https://www.faircent.in/)**
 - 🌍 Based in **Gurgaon, India**  
