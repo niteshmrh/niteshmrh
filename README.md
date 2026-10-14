@@ -1,4 +1,6 @@
-### Hey, I'm Nitesh Kumar 👋🏽  
+# Hey, I'm Nitesh Kumar 👋🏽
+
+**Software Engineer | MERN Stack Developer | Backend Engineering | Python**
 
 <a href="https://niteshmrh-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=flat-square" alt="Portfolio">
@@ -28,34 +30,62 @@
 
 ---
 
-## 📚 Education
-- 🌱 I’ve completed my Master's in Computer Application from the [Department of Computer Science, University of Delhi](https://cs.du.ac.in/) and managed to secure 8.088 CGPA.
-- 📫 reach me at @nitesh.mca20.du@gmail.com
-- 🧩 I enjoy solving problems on [LeetCode](https://leetcode.com/u/niteshmrh/) 
+## 👨‍💻 About Me
+
+I'm a **Software Engineer with 3.5+ years of experience** building scalable web applications, backend services, and full-stack digital products.
+
+Currently working at **Credence Data**, I focus on software development, backend engineering, API development, and building efficient, maintainable applications.
+
+I enjoy solving challenging engineering problems, optimizing application performance, exploring system design, and continuously improving my problem-solving skills.
+
+- 💼 **Current Company:** Credence Data
+- 🏢 **Previous Company:** Fairassets Technologies India Pvt. Ltd. (Faircent.com)
+- 🌍 **Location:** Gurugram, Haryana, India
+- 🎓 **Education:** MCA, Department of Computer Science, University of Delhi
+- 🧩 **Problem Solving:** [LeetCode](https://leetcode.com/u/niteshmrh/) [takeYouForward](https://takeuforward.org/profile/niteshmrh)
+- 📧 **Email:** [niteshmrhofficial@gmail.com](mailto:niteshmrhofficial@gmail.com)
 
 ---
 
-## 🚀 Experience
-I'm a **Full Stack Software Developer** with **3.5+ years of professional experience** in designing, developing, and optimizing web applications. I'm passionate about building robust and scalable software solutions and continuously exploring new technologies to enhance my skill set.
+## 🚀 Professional Experience
 
-- 💻 Currently working at **Fairassets Technologies [(Faircent.com)](https://www.faircent.in/)**
-- 🌍 Based in **Gurgaon, India**  
+### 💼 Software Developer — Credence Data
+**August 2025 – Present**
+
+Working on software development and contributing to building reliable, scalable applications.
+
+### 💻 Software Developer — Fairassets Technologies India Pvt. Ltd.
+**January 2023 – August 2025**
+
+Worked on fintech applications, backend services, REST APIs, and performance optimization.
+
+- Developed and maintained REST APIs using Node.js, Express.js, and Sails.js.
+- Worked with MongoDB, MySQL, and Redis for data management and caching.
+- Contributed to financial product features, including payment details, EMI, foreclosure, and credit-related workflows.
+- Improved application performance through caching and frontend optimization.
+- Worked with modern JavaScript technologies to develop maintainable and scalable applications.
 
 ---
 
-## 📦 Toolbox
+## 🛠️ Tech Stack & 📦 Toolbox
 
 **Languages:**  `Core-Java` `JavaScript` `TypeScript` `Python`
 
 **Frontend Development:** `React.js` `Next.js` `Vite.js` `Chart.js` `Bootstrap` `Tailwind` `Material-UI` `HTML5` `CSS` `Saas` 
 
-**Backend Development:** `Node.js` `Express.js` `Python-Django` `FLASK` `FAST-API` `DRUPAL-PHP` `SPRINGBOOT`
+**Backend Development:** `Node.js` `Express.js` `Python-Django` `FLASK` `FAST-API` `DRUPAL-PHP` `SPRINGBOOT` `Microservices`
 
-**Database:** `Mysql` `Sequelize ORM` `MongoDB` `Drizzle ORM` `PostgreSQL` `Firebase`
+**Database:** `Mysql` `AWS RDS` `MongoDB` `PostgreSQL` `Firebase` `Sequelize ORM` `Drizzle ORM` `Prisma ORM` 
 
 **Version Control:** `Git` `GitHub` `BitBucket` 
 
-**Others:**  `Docker` `AWS-SNS` `Linux` `Microservices` `Postman` `Vercel` `VSCode`
+**DevOps & Tools:** `Docker` `Jenkins` `Git` `GitHub` `Bitbucket` `AWS S3` `AWS SNS` `AWS SES` `EC2` `ECS` `Linux` `Postman` `Vercel`
+
+**Architecture & Engineering:** `Data Structures & Algorithms` `OOP` `SOLID Principles` `Microservices` `System Design` `Caching` `API Design` `Performance Optimization`
+
+**AI & Emerging Technologies:** `Python AI Integration` `LLM Integration` `RAG Fundamentals`
+
+**Others:**  `Linux`  `Postman` `Vercel` `VSCode`
 
 ---
 
@@ -68,23 +98,38 @@ I'm a **Full Stack Software Developer** with **3.5+ years of professional experi
 
 ---
 
-## 🌱 What I'm Currently Learning
-- **Docker**: Enhancing containerization and deployment capabilities.
-- **Advanced Backend Design**: Exploring design patterns and architecture best practices.
-- **Microservices**: Understanding microservices architecture and implementing scalable systems.
+## 🌱 Currently Learning
+
+- **System Design:** Designing scalable, reliable, and maintainable systems.
+- **DevOps & CI/CD:** Docker, Jenkins, and automated deployment pipelines.
+- **Distributed Systems:** Understanding scalability, consistency, fault tolerance, and system reliability.
+- **AI Engineering:** Exploring LLM integrations, RAG pipelines, and AI-powered applications.
+- **Data Structures & Algorithms:** Practicing problem-solving and interview patterns using Java.
   
 ---
 
+## 🎥 Coder Ka Caravan
 
-## 📚 What I'm Studying
-- **Distributed Systems**: Diving into distributed computing principles to build resilient and scalable systems.
-- **DevOps Practices**: Learning CI/CD pipelines and infrastructure as code (IaC) with Docker and Jenkins.
-- **GraphQL**: Exploring GraphQL for more efficient data querying and handling complex data relationships.
+I'm building **Coder Ka Caravan**, a platform focused on sharing developer journeys, career experiences, technical discussions, and interview insights.
+
+<a href="https://www.youtube.com/@CoderKaCaravan" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Coder%20Ka%20Caravan-red?logo=youtube&style=for-the-badge" alt="Coder Ka Caravan on YouTube">
+</a>
+<a href="https://www.instagram.com/coderkacaravan/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Coder%20Ka%20Caravan-E4405F?logo=instagram&style=for-the-badge" alt="Coder Ka Caravan on Instagram">
+</a>
 
 ---
 
 ## 🎯 Let's Connect!
 
-Feel free to reach out for collaborations, mentorship, or any tech-related discussions.  
-📧 **Email**: [niteshmrhofficial@gmail.com](mailto:niteshmrhofficial@gmail.com)  
-🌐 **LinkedIn**: [linkedin.com/in/niteshmrh](https://www.linkedin.com/in/niteshmrh/)
+I'm open to connecting with developers, discussing software engineering, collaborating on interesting projects, and sharing knowledge about full-stack development and interview preparation.
+
+- 🌐 **Portfolio:** [niteshmrh.vercel.app](https://niteshmrh.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/niteshmrh](https://www.linkedin.com/in/niteshmrh/)
+- 🐙 **GitHub:** [github.com/niteshmrh](https://github.com/niteshmrh)
+- 📧 **Email:** [niteshmrhofficial@gmail.com](mailto:niteshmrhofficial@gmail.com)
+
+---
+
+⭐ *Building, learning, and improving — one commit at a time.*
